@@ -1,2 +1,3 @@
 # Flask Blog
-A demo blog made with flask framework.
+A full featured blog made with flask framework.
+
